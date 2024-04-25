@@ -1,0 +1,11 @@
+{
+  "name": "Nombre del entorno de desarrollo",
+  "image": "adoptopenjdk:11",
+  "extensions": [
+    "extension1",
+    "extension2"
+  ],
+  "settings": {
+    "java.home": "/opt/java/openjdk-11"
+  }
+}
